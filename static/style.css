@@ -1,0 +1,725 @@
+	  
+	
+	@media (orientation: portrait){
+		
+        body{
+     
+      background: #C1FFFF;
+      font-family: 'Segeo UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;	
+     
+      }
+     
+ }
+   
+ 
+ @media (orientation: portrait){
+     
+   .input-type{
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px 5px 5px;
+  border: none;
+  z-index: 10;
+  
+  }   
+     
+ }
+   
+   
+     
+   
+ @media (orientation: portrait){
+     
+ .weather-style{
+      
+ border: 2px solid black;
+ width: 30rem;
+      
+}
+  
+     
+ }
+
+ 
+ @media (orientation: portrait){
+     
+ #btn:hover{
+ 
+ background: lightgreen;
+      
+}
+  
+     
+ }
+ 
+ 
+ 
+ @media (orientation: portrait){
+     
+ .front-page-view{
+ 
+ border: 2px solid gray;
+ border-radius: 10px 10px 10px 10px;
+ margin-left: 10px;
+ margin-right: 10px;
+ height: 100%;
+      
+}
+  
+     
+ }
+ 
+  
+ @media (orientation: portrait){
+     
+ .sunlight{
+ 
+ display: flex;
+ justify-content: right;
+ margin-right: 25px;
+ margin-bottom: 20px;
+ color: yellow;
+ font-size: 60px;
+ z-index: 0;
+      
+}
+  
+     
+ }
+ 
+ 
+@media (orientation: portrait){
+     
+ .cloud{
+ position: absolute;
+ top: 55px;
+ display: flex;
+ justify-content: right;
+ margin-right: 25px;
+ color: white;
+ font-size: 60px;
+ z-index: 0;
+      
+}
+  
+     
+ } 
+ 
+  @media (orientation: portrait){
+     
+ .cloud2{
+ position: absolute;
+ top: 15rem;
+ right:20px;
+ display: flex;
+ justify-content: right;
+ margin-right: 25px;
+ color: white;
+ font-size: 60px;
+ z-index: 0;
+      
+}
+  
+     
+ } 
+ 
+ 
+ 
+ 
+  @media (orientation: portrait){
+     
+ .cloud3{
+ position: absolute;
+ top: 20rem;
+ display: flex;
+ justify-content: right;
+ margin-left: 25px;
+ color: white;
+ font-size: 60px;
+ z-index: 0;
+      
+}
+  
+     
+ } 
+ 
+@media (orientation: portrait){
+     
+ .week-days{
+ display: flex;
+ border: 2px solid black;
+ border: none;
+ height: 40px;
+ z-index: 20;
+      
+}
+  
+     
+ } 
+ 
+  @media (orientation: portrait){
+     
+ .list{
+     
+ display: flex;
+ padding: 0;
+ margin-left: 15.9px;
+ margin-top: 4px;
+ list-style: none;
+ gap: 15px;
+
+}
+  
+     
+ } 
+ 
+ 
+ @media (orientation: portrait){
+     
+ #text-decoration{
+ 
+ text-decoration: none;	
+ 
+}
+  
+     
+ } 
+ 
+ 
+  
+ @media (orientation: portrait){
+     
+ .forecast-infor{
+ 
+ border: 2px solid black;
+ border-bottom: none;
+ border-top: 2px solid black;
+ border-radius: 5px 5px 5px 5px;
+ border-left: none;
+ border-right: none;
+ height: 20rem;
+ 
+ 
+}
+  
+     
+ } 
+ 
+ 
+  @media (orientation: portrait){
+     
+ .header{
+ margin-right: 20px;
+ padding: 5px;
+ display: flex;
+ gap: 65px;
+ 
+}
+  
+     
+ } 
+ 
+   @media (orientation: portrait){
+     
+ .locations{
+ 
+ list-style: none;
+ padding: 5px;
+ 
+}
+  
+     
+ } 
+ 
+ 
+
+   @media (orientation: portrait){
+     
+ .time-list{
+ 
+ display: flex;
+ list-style: none;
+ 
+ padding: px;
+ 
+ 
+}
+  
+     
+ }  
+ 
+  @media (orientation: portrait){
+     
+ .time-ul{
+ 
+ display: flex;
+ list-style: none;
+ padding: 5px;
+ margin-left: -5px;
+ 
+}
+  
+     
+ }  
+ 
+ 
+  @media (orientation: portrait){
+     
+ .time{
+ 
+ margin-top: 5px;
+ 
+}
+  
+     
+ }  
+ 
+ 
+  @media (orientation: portrait){
+     
+ .adjust{
+ 
+ margin-left: -25px;
+ margin-top: 3px;
+ 
+}
+  
+     
+ }  
+ 
+ 
+  @media (orientation: portrait){
+     
+ .condition{
+ 
+ margin-bottom: 10px;
+ 
+}
+  
+     
+ }  
+ 
+ @media (orientation: portrait){
+     
+ .conditions{
+ 
+ list-style: none;
+ 
+}
+  
+     
+ }  
+ 
+ 
+ @media (orientation: portrait){
+     
+ #conditions{
+ 
+ margin-left: -55px;
+ margin-top: 19px;
+ 
+}
+  
+     
+ }  
+ 
+   
+ @media (orientation: portrait){
+     
+ .line3{
+ 
+ margin-left: -17.1rem;
+ margin-top: 18.9px;
+ font-size: 50px;
+
+ 
+}
+  
+     
+ }  
+ 
+ @media (orientation: portrait){
+     
+ .line1{
+ 
+ opacity: 0;
+ 
+}
+  
+     
+ }  
+ 
+
+ @media (orientation: portrait){
+     
+ .line2{
+ 
+ opacity: 0;
+ 
+}
+  
+     
+ }  
+ 
+ 
+ 
+ @media (orientation: portrait){
+     
+ .backend{
+ 
+ border:#808080;
+ background-color: #808080;
+ margin-top: 1rem;
+ margin-left: 20px;
+ border-radius: 10px 10px 10px 10px;
+ width: 20.1rem;
+ height: 25rem;
+ 
+}
+  
+     
+ }  
+ 
+  @media (orientation: portrait){
+     
+ .backend2{
+ 
+ display: none;
+ 
+}
+  
+     
+ }  
+ 
+ 
+ 
+ @media (orientation: portrait){
+     
+ .locations-links{
+ 
+ display: none;
+ 
+}
+  
+     
+ }  
+ 
+ 
+ 
+ @media (orientation: portrait){
+     
+ .input-type-sidebar{
+ 
+ display: none;
+ 
+}
+  
+     
+ }  
+ 
+ 
+ @media (orientation: portrait){
+     
+ .label-header-sidebar{
+ 
+ display: none;
+ 
+}
+  
+     
+ }  
+ 
+ 
+ @media (orientation: portrait){
+     
+ .side-bar{
+ 
+ display: none;
+ 
+}
+  
+     
+ }  
+ 
+ 
+
+  @media (orientation: landscape){
+     
+  .label-header{
+ 
+ display: none;
+ 
+}
+  
+     
+ }  
+
+ @media (orientation: landscape){
+     
+  .upper-hr{
+ 
+ display: none;
+}
+  
+     
+ }  
+ 
+ 
+ @media (orientation: landscape){
+     
+  .input-type{
+ 
+ display: none;
+ 
+}
+  
+     
+ }  
+ 
+ 
+ @media (orientation: landscape){
+     
+  .week-days{
+ 
+ display: none;
+}
+  
+     
+ }  
+ 
+ 
+ 
+ @media (orientation: landscape){
+     
+  .name{
+ 
+ display: none;
+}
+  
+     
+ }  
+ 
+ 
+ @media (orientation: landscape){
+     
+  .line1{
+ 
+ display: none;
+}
+  
+     
+ }  
+ 
+ @media (orientation: landscape){
+     
+  .time{
+ 
+ display: none;
+}
+  
+     
+ }  
+ 
+ @media (orientation: landscape){
+     
+  .condition{
+ 
+ display: none;
+}
+  
+     
+ }  
+ 
+ @media (orientation: landscape){
+     
+  .locations{
+ 
+ display: none;
+ 
+}
+  
+     
+ }  
+ 
+ 
+ @media (orientation: landscape){
+     
+  .locations-links{
+ 
+ list-style: none;
+ padding: 10px;
+ display: flex;
+ justify-content: right;
+ margin-right: 10rem;
+ 
+}
+  
+     
+ }  
+ 
+ 
+ 
+ @media (orientation: landscape){
+     
+  .label-header-sidebar{
+ 
+ display: flex;
+ justify-content: right;
+ margin-right: 15px;
+ 
+ 
+ 
+}
+}
+     
+     
+ 
+ @media (orientation: landscape){
+     
+  .input-type-sidebar{
+ 
+ display: flex;
+ justify-content: right;
+ margin-right: 1rem;
+ 
+ 
+ 
+ 
+}
+}	
+
+
+ @media (orientation: landscape){
+     
+  #btn-bar{
+ 
+ border-radius: 20px;
+ border: none;
+ 
+}
+}	
+
+@media (orientation: landscape){
+     
+  .side-bar{
+ border: #C1FFFF;
+ background-color: #C1FFFF;
+ scroll-margin: float;
+ width: 20rem;
+ margin-left: 20rem;
+ height: 100%;
+ 
+}
+}	
+ 
+ 
+  @media (orientation: landscape){
+     
+  .sidebar-locations{
+      
+ margin-right: -10.5rem;
+ padding: 5px;
+ border: 1px solid black;
+ width: 19rem;
+ 
+}
+}	
+ 
+ @media (orientation: landscape){
+     
+.text-decoration{
+ 
+ text-decoration: none;	
+ 
+}
+  
+     
+ } 
+ 
+ 
+ @media (orientation: landscape){
+     
+.icons-hidden{
+ 
+ display: none;	
+ 
+}
+  
+     
+ } 
+ 
+ @media (orientation: landscape){
+     
+.sunlight{
+ 
+ position: absolute;
+ color: yellow;
+ margin-right: 7rem;
+ margin-top:-4rem;
+ font-size: 10rem;
+ 
+}
+  
+     
+ } 
+ 
+ 
+ 
+ @media (orientation: landscape){
+     
+.cloud2{
+ 
+ position: absolute;
+ color: white;
+ margin-right: auto;
+ margin-top: 3rem;
+ font-size : 10rem;
+ 
+}
+  
+     
+ } 
+ 
+ 
+ @media (orientation: landscape){
+     
+.backend2{
+ 
+ border: #808080;
+ background-color: #808080;
+ width: 20rem;
+ margin-top:-23.9rem;
+ height: 23.9rem;
+ 
+}
+  
+     
+ } 
+ 
+ 
+ 
+@media (min-width:1280px){
+     
+.side-bar{
+ 
+ margin-left: 60rem;
+ height: 50rem;
+}
+  
+     
+ } 
+ 
+ 
+  @media (min-width: 1280px){
+     
+.backend2{
+ 
+ margin-top: -50rem;
+ height: 50rem;
+ width: 60rem;
+}
+  
+     
+ }
